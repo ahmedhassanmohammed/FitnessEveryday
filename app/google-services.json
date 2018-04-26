@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "770929862093",
+    "firebase_url": "https://fitnesseveryday-bfe52.firebaseio.com",
+    "project_id": "fitnesseveryday-bfe52",
+    "storage_bucket": "fitnesseveryday-bfe52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770929862093:android:2392ab1667ac33ca",
+        "android_client_info": {
+          "package_name": "app.sunshine.com.example.android.fitnesseveryday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770929862093-tienr2uv13frff2bsm9r2m09186l37qm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.sunshine.com.example.android.fitnesseveryday",
+            "certificate_hash": "86da6855d5109cf876a910ae2c988b5886a4a7f5"
+          }
+        },
+        {
+          "client_id": "770929862093-sq65f6dp33os2bnc7iignut3qt72u313.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8kElYhmFOLwfGetNfT4CE-PEEm6zkRxk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770929862093-sq65f6dp33os2bnc7iignut3qt72u313.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
